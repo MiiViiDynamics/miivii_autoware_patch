@@ -153,8 +153,8 @@ repositories:
     version: v2.0.0
   vendor/miivii/miivii_image_projection_based_fusion:
     type: git
-    url: http://gerrit.miivii.com/miivii-sw-linux/ros/miivii_image_projection_based_fusion
-    version: 1bd12202fa53bfe9d1515de594deb2ff938a5e2f
+    url: https://github.com/MiiViiDynamics/miivii_image_projection_based_fusion
+    version: 9a7cf5f2ab0e8eb59aea95530769c9b80e5c28ce
   vendor/miivii/miivii_bynav_driver:
     type: git
     url: https://github.com/MiiViiDynamics/miivii_bynav_driver
